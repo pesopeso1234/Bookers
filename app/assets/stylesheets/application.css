@@ -35,6 +35,14 @@ main table{
 	margin-top: 10px;
 }
 
+.top-headline{
+	padding-bottom: 20px;
+}
+
+.top-message{
+	padding-bottom: 10px;
+}
+
 .add-book{
 	padding-top: 20px;
 }
